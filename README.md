@@ -18,7 +18,16 @@ let me = {
 };
 ```
 
-<div align="center" style="display:flex;">
-  <img style="height:12em;" src="https://github-readme-stats.vercel.app/api?username=ramon-ferreira&show_icons=true&locale=en" alt="github stats" />
-  <img style="height:12em;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramon-ferreira" alt="most used languages"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ramon-ferreira&show_icons=true&locale=en&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ramon-ferreira&show_icons=true&locale=en">
+    <img alt="github stats">
+  </picture>
+  
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramon-ferreira&locale=en&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramon-ferreira">
+    <img alt="most used languages">
+  </picture>
 </div>

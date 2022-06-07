@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋 -  Welcome to my github!</h2>
 
-```
+```javascript
 let me = {
   pronouns: ["he", "him"],
   nationality: "Brazilian",

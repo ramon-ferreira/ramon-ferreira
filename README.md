@@ -20,14 +20,14 @@ let me = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ramon-ferreira&show_icons=true&locale=en&theme=dracula">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ramon-ferreira&show_icons=true&locale=en">
+    <source media="(prefers-color-scheme: dark)" height="180rem" srcset="https://github-readme-stats.vercel.app/api?username=ramon-ferreira&show_icons=true&locale=en&theme=dracula">
+    <source media="(prefers-color-scheme: light)" height="180rem" srcset="https://github-readme-stats.vercel.app/api?username=ramon-ferreira&show_icons=true&locale=en">
     <img alt="github stats">
   </picture>
   
    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramon-ferreira&locale=en&theme=dracula">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramon-ferreira">
+    <source media="(prefers-color-scheme: dark)" height="180rem" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramon-ferreira&locale=en&theme=dracula">
+    <source media="(prefers-color-scheme: light)" height="180rem" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramon-ferreira">
     <img alt="most used languages">
   </picture>
 </div>

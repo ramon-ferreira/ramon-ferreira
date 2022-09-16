@@ -6,7 +6,7 @@ let me = {
   nationality: "Brazilian",
   likes: {
     webpack: true,
-    typescript: false,
+    typescript: !!false,
     optimization: true,
     linux: true,
     cli: true

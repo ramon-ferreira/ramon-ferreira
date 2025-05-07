@@ -6,15 +6,15 @@ let me = {
   nationality: "Brazilian",
   likes: {
     webpack: true,
-    typescript: !!false,
+    typescript: true,
     optimization: true,
     linux: true,
     cli: true
   },
   focusOn: "frontend",
-  currentTools: ["react", "node", "handlebars", "storybook", "cypress", "flask"],
+  currentTools: ["react", "node", "handlebars", "storybook", "cypress", "flask", "laravel"],
   code: ["Javascript", "Typescript", "Python", "PHP", "C++"],
-  askMeAbout: ["tech", "design", "beer", "coffee", "games"]
+  askMeAbout: ["tech", "design", "coffee", "games"]
 };
 ```
 

@@ -5,15 +5,21 @@ let me = {
   pronouns: ["he", "him"],
   nationality: "Brazilian",
   likes: {
-    webpack: true,
-    typescript: true,
+    linux: ["Arch", "SteamOS"],
+    bundlers: ["Vite", "Webpack"],
+    unity: true,
     optimization: true,
-    linux: true,
-    cli: true
+    desktopScripting: true,
   },
-  focusOn: "frontend",
-  currentTools: ["react", "node", "handlebars", "storybook", "cypress", "flask", "laravel"],
-  code: ["Javascript", "Typescript", "Python", "PHP", "C++"],
+  complainsAbout: {
+    games: ["prices", "that shit ain't in xbox", "terrible camera guys"],
+    processes: "have you opened a ticket",
+    jira: "every day task before coffee"
+  },
+  iDo: "some research in web and security, help companies to get rid of legacy services and now some painting with CSS",
+  aka: "fullstack developer",
+  someTools: ["vuejs", "react", "nodejs", "handlebars", "storybook", "cypress", "flask", "laravel"],
+  codeWith: ["Javascript", "Typescript", "C#", "Python", "PHP", "Java"],
   askMeAbout: ["tech", "design", "coffee", "games"]
 };
 ```

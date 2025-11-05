@@ -12,11 +12,11 @@ let me = {
     desktopScripting: true,
   },
   complainsAbout: {
-    games: ["prices", "that shit ain't in xbox", "terrible camera guys"],
+    games: ["prices", "that thing ain't in xbox", "terrible camera guys"],
     processes: "have you opened a ticket",
     jira: "every day task before coffee"
   },
-  iDo: "some research in web and security, help companies to get rid of legacy services and now some painting with CSS",
+  iDo: "some research in web and security, help companies to get rid of legacy services",
   aka: "fullstack developer",
   someTools: ["vuejs", "react", "nodejs", "handlebars", "storybook", "cypress", "flask", "laravel"],
   codeWith: ["Javascript", "Typescript", "C#", "Python", "PHP", "Java"],
